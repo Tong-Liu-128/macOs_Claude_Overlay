@@ -1,0 +1,11 @@
+*.pyc
+*.so
+*.egg-info
+*.dmg
+*.zip
+dist
+build
+env
+config.sh
+__pycache__
+.DS_Store
