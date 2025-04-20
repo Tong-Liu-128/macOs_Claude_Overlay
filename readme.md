@@ -38,6 +38,6 @@ A simple macOS overlay application for pinning <code>claude.ai</code> to a dedic
   And you are good to go!
 
 
-## Usage
+## Usage:
 
   Once installed, open it, sign in with your account, set your favourite hotkey, and simply start your work flow. 
