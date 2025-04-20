@@ -27,6 +27,10 @@ A simple macOS overlay application for pinning <code>claude.ai</code> to a dedic
 
   To run the tool (you may need to solve dependency issues by yourself).
 
+## Tips:
+
+  You are strongly suggest to delete the official Claude client if you have it installed before installing this tool.
+
   You will be prompt to allow Accessibility on first run, which is required for listen for hotkey binding input. 
 
   You may need to restart the app after Accessibility is granted.
@@ -36,4 +40,4 @@ A simple macOS overlay application for pinning <code>claude.ai</code> to a dedic
 
 ## Usage
 
-Once installed, open it, sign in with your google account, set your favourite hotkey, and simply start your work flow. 
+  Once installed, open it, sign in with your account, set your favourite hotkey, and simply start your work flow. 
