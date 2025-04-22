@@ -17,9 +17,13 @@ A simple macOS overlay application for pinning <code>claude.ai</code> to a dedic
 
 ## Installation:
 
-  Click [here](https://github.com/Tong-Liu-128/macOs_Claude_Overlay/raw/refs/heads/main/Claude.dmg) to download the dmg installer.
+You can either:
 
-  You can clone the whole repo and run
+  Click [here](https://github.com/Tong-Liu-128/macOs_Claude_Overlay/raw/refs/heads/main/Claude.dmg) to download the dmg installer for simple installation.
+
+Or:
+
+  You can also clone the whole repo and run
 
 ```bash
 ./run.py
